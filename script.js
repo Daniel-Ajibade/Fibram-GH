@@ -58,11 +58,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // === Fake Order Notification ===
   const fakeOrders = [
-    "Mary from Lagos just ordered two bottles!",
-    "Ahmed from Abuja placed an order!",
-    "Chinwe from Enugu bought 2 packs!",
-    "Tolu from Ibadan just ordered the complete pack!",
-    "Fatima from Kano reordered this morning!"
+    "Mary from Accra just ordered two bottles!",
+    "Kagya from Kumasi placed an order!",
+    "Augustina from Tarkwa bought 2 packs!",
+    "Kojo from Takoradi just ordered the complete pack!",
+    "Fatima from Tamale reordered this morning!",
+    "Afienya from Accra bought 3 packs!",
+    "Vivian from Bolga reordered this morning!"
   ];
 
   const fakePopup = document.getElementById('fake-order-popup');
